@@ -14,7 +14,7 @@ class colores:
 
 
 os.system("clear")
-logo = colores.red + '''
+logo = colores.green+ '''
              uu$:$:$:$:$:$uu
           uu$$$$$$$$$$$$$$$$$uu
          u$$$$$$$$$$$$$$$$$$$$$u
